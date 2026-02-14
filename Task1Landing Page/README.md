@@ -1,6 +1,4 @@
-# 🌟 OASIS Infobyte Internship Projects
-
-This repository contains the tasks completed during the OASIS Infobyte Web Development Internship.
+# 🌟 OASIS Infobyte Internship Tasks
 
 ---
 
